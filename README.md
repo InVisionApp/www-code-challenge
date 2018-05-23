@@ -1,7 +1,10 @@
 # InVision Code Challenge
 
 ## Sketch File
+
 https://www.dropbox.com/s/fhjb47ti6gyf8av/workflow-enterprise.sketch?dl=1
+
+The images used in the sketch file can be found in the `/public/images/` directory
 
 ## Summary
 
