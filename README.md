@@ -4,7 +4,8 @@
 
 https://www.dropbox.com/s/fhjb47ti6gyf8av/workflow-enterprise.sketch?dl=1
 
-The images used in the sketch file can be found in the `/public/images/` directory
+The images used in the sketch file can be found in the `/public/images/` directory.
+Also note, the desktop and mobile layouts are different sketch pages.
 
 ## Summary
 
