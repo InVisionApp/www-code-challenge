@@ -1,5 +1,8 @@
 # InVision Code Challenge
 
+## Sketch File
+https://www.dropbox.com/s/fhjb47ti6gyf8av/workflow-enterprise.sketch?dl=1
+
 ## Summary
 
 For this code challenge, you will create a section of a landing page that displays the offerings from InVision. It will include 3 tabbed sections that automatically switches tabs until the user navigates to a tab on their own. On mobile, it simply provides 3 sections with horizontal scrolling.
